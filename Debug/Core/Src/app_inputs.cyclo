@@ -1,0 +1,4 @@
+../Core/Src/app_inputs.c:13:9:Inputs_GetRawMask	5
+../Core/Src/app_inputs.c:55:6:Inputs_Init	1
+../Core/Src/app_inputs.c:66:6:Inputs_Task	5
+../Core/Src/app_inputs.c:99:9:Inputs_GetMask	1

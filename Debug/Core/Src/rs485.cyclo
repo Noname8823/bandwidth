@@ -1,0 +1,7 @@
+../Core/Src/rs485.c:58:13:RS485_ResetParser	1
+../Core/Src/rs485.c:68:13:RS485_ParseByte	15
+../Core/Src/rs485.c:254:6:RS485_Init	2
+../Core/Src/rs485.c:292:6:RS485_Send	5
+../Core/Src/rs485.c:353:6:RS485_Task	10
+../Core/Src/rs485.c:549:6:RS485_UART_RxCallback	2
+../Core/Src/rs485.c:562:6:HAL_UART_ErrorCallback	2

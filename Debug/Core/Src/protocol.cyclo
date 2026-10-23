@@ -1,0 +1,3 @@
+../Core/Src/protocol.c:5:10:Protocol_CRC16	4
+../Core/Src/protocol.c:32:10:Protocol_BuildFrame	4
+../Core/Src/protocol.c:88:9:Protocol_DecodeFrame	8

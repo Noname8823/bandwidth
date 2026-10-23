@@ -1,0 +1,5 @@
+(
+echo Debug/
+echo Release/
+echo .metadata/
+) > .gitignore
